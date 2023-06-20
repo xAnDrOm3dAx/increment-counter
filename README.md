@@ -1,13 +1,9 @@
 # cwGp4RcJ
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
+A Javascript app that I built with the help of Scrimba.
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
