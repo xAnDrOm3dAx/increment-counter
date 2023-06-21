@@ -2,6 +2,8 @@
 
 A Javascript app that I built with the help of Scrimba.
 
+I added the code to enable the user to clear the previous entries counter using the 'clear' button and to decrement the count using the 'decrement' button.
+
 Head over to https://vitejs.dev/ to learn more about using vite
 
 ## About Scrimba
